@@ -1,0 +1,12 @@
+1. Wash clothes
+  1.1 get dirty clothes out of hamper
+    1.1.1 Go to hamper and remove what's dirty
+  1.2 place dirty clothes in washing machine
+  1.3 add detergent
+    1.3.1 get measuring device
+    1.3.2 fill with detergent
+    1.3.3 put in wash drum
+  1.4 close door
+  1.5 run machine
+    1.5.1 turn machine on
+    1.5.2 set to wash cycle
