@@ -10,3 +10,4 @@
   1.5 run machine
     1.5.1 turn machine on
     1.5.2 set to wash cycle
+    1.5.3 push start
